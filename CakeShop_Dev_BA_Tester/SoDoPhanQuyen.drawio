@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Trang-1" id="BjjT4JgvulIIT4T0Quul">
+    <mxGraphModel dx="1105" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="00bsJSlBQcbpW30D-BRr-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-3" value="Hệ thống website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-5" value="SysAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-6" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="00bsJSlBQcbpW30D-BRr-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="235" y="680" as="sourcePoint" />
+            <mxPoint x="735" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="00bsJSlBQcbpW30D-BRr-5" target="00bsJSlBQcbpW30D-BRr-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="745" y="390" as="sourcePoint" />
+            <mxPoint x="745" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="00bsJSlBQcbpW30D-BRr-6" target="00bsJSlBQcbpW30D-BRr-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="585" y="550" as="sourcePoint" />
+            <mxPoint x="685" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00bsJSlBQcbpW30D-BRr-15" value="Developer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
