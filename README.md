@@ -5,7 +5,7 @@
 
 ## Giới thiệu  
 
-**Cake Website** là đồ án mô phỏng **hệ thống quản lý và bán hàng trực tuyến cho tiệm bánh**, được xây dựng với mục tiêu **thực hành quy trình phát triển và kiểm thử phần mềm (Software Testing Life Cycle – STLC)**.  
+**Cake Website** là đồ án mô phỏng **hệ thống quản lý và bán hàng trực tuyến cho tiệm bánh**, được xây dựng với mục tiêu **thực hành quy trình phát triển và kiểm thử phần mềm**.  
 
 ### Hệ thống cho phép:
 - Người dùng duyệt và đặt mua bánh trực tuyến  
